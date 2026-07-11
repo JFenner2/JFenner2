@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I’m Josh 👋
 
-<!--
-**JFenner2/JFenner2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Cloud & DevOps Engineer currently transitioning from a professional rugby career into cloud engineering.
 
-Here are some ideas to get you started:
+After earning my AWS Solutions Architect – Associate and Linux Essentials certifications, I’ve been focused on building practical cloud projects using AWS, Terraform, Docker and Linux to develop hands-on engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications
+
+* AWS Certified Solutions Architect – Associate
+* Linux Essentials
+* Terraform Associate (In Progress)
+
+Current Technologies
+
+* AWS
+* Terraform
+* Docker
+* Linux
+* Bash
+* Git
+* GitHub Actions
+
+Featured Projects
+
+* Infrastructure as Code with Terraform
+* Cloud Monitoring & Operations
+* AWS Docker Web Application
+* CI/CD Pipeline (Coming Soon)
+
+I’m continuously learning and documenting my journey as I work towards my first Cloud/DevOps Engineering role.
