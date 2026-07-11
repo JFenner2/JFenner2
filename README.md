@@ -25,6 +25,6 @@ Featured Projects
 * Infrastructure as Code with Terraform
 * Cloud Monitoring & Operations
 * AWS Docker Web Application
-* CI/CD Pipeline (Coming Soon)
+* CI/CD Pipeline 
 
 I’m continuously learning and documenting my journey as I work towards my first Cloud/DevOps Engineering role.
